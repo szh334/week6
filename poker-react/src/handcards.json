@@ -1,0 +1,27 @@
+[
+  {
+    "handcardnumber": "1",
+    "picture": "http://golearntocode.com/images/cards/face_down.png",
+    "cardname": "face_down"
+  },
+  {
+    "handcardnumber": "2",
+    "picture": "http://golearntocode.com/images/cards/face_down.png",
+    "cardname": "face_down"
+  },
+  {
+    "handcardnumber": "3",
+    "picture": "http://golearntocode.com/images/cards/face_down.png",
+    "cardname": "face_down"
+  },
+  {
+    "handcardnumber": "4",
+    "picture": "http://golearntocode.com/images/cards/face_down.png",
+    "cardname": "face_down"
+  },
+  {
+    "handcardnumber": "5",
+    "picture": "http://golearntocode.com/images/cards/face_down.png",
+    "cardname": "face_down"
+  }
+]
